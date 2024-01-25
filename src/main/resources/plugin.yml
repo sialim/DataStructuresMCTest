@@ -1,0 +1,4 @@
+name: DataStructuresMCTest
+version: '${project.version}'
+main: me.sialim.datastructuresmctest.DataStructuresMCTest
+api-version: '1.20'
